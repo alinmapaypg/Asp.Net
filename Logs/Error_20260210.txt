@@ -1,0 +1,33 @@
+
+PGLog 10-02-2026 11:30:45
+Expected DotNet Framework Version 4.5 | Found Dot Net Version 4.8.09032
+
+2026-02-10 19:05:03
+btnsubmit_Click: Object reference not set to an instance of an object.
+
+2026-02-10 19:05:08
+btnsubmit_Click: Object reference not set to an instance of an object.
+
+2026-02-10 19:05:23
+btnsubmit_Click: Object reference not set to an instance of an object.
+
+2026-02-10 19:05:25
+btnsubmit_Click: Object reference not set to an instance of an object.
+
+2026-02-10 19:05:37
+btnsubmit_Click: Object reference not set to an instance of an object.
+
+2026-02-10 19:05:39
+btnsubmit_Click: Object reference not set to an instance of an object.
+
+2026-02-10 19:05:41
+btnsubmit_Click: Object reference not set to an instance of an object.
+
+2026-02-10 19:05:56
+Request : {"terminalId":"VEGA19534","password":"TER25041000757906192568","paymentType":"1","customer":{"cardHolderName":"Ichhu Shrestha","customerEmail":"icchu.shrestha@nimb.com.np","billingAddressStreet":"Durbarmarg","billingAddressCity":"Kathmandu","billingAddressState":"Bagmati","billingAddressPostalCode":"44600","billingAddressCountry":"IN"},"currency":"SAR","order":{"orderId":"862146"},"referenceId":"","signature":"7220ef3acdfb54b180b8dbbc1740a665e1f359d60b32f5bd5202c76fe8e77db7","tokenization":{"operation":"A","cardToken":""},"country":"IN","amount":"1.00","customerIp":"10.10.11.172","merchantIp":"10.10.11.172","deviceInfo":"{\"pluginName\":\"DotNet_Hosted\",\"pluginVersion\":3.0,\"deviceType\":\"Desktop\",\"deviceModel\":\"Microsoft Windows NT 6.2.9200.0Win32NT\",\"deviceOSVersion\":\"Windows 10\",\"clientPlatform\":\"Chrome 144.0\"}","additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:58636/Receipt.aspx\"}"}}
+
+2026-02-10 19:05:57
+Response Body :  {"transactionDateTime":"February 10, 2026 7:05 PM","paymentLink":{"linkUrl":"http://10.10.11.208:8788/CORE_2.2.2/direct.htm?paymentId="},"terminalId":"VEGA19534","additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:58636/Receipt.aspx\"}"},"transactionId":"2604119707695607135","amountDetails":{"amount":"1.00","originalAmount":"1.00"},"responseCode":"001","merchantName":"Cameo Saudi Pvt Ltd","orderDetails":{"orderId":"862146"},"responseDescription":"Transaction Approved","merchantId":"MER000000016","customerDetails":{"cardHolderName":"Ichhu Shrestha"}}
+
+2026-02-10 19:05:57
+btnsubmit_Click: Thread was being aborted.

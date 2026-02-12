@@ -1,0 +1,231 @@
+
+PGLog 08-01-2026 14:23:27
+Expected DotNet Framework Version 4.5 | Found Dot Net Version 4.8.09032
+
+2026-01-08 14:23:55
+Request : {"terminalId":"Routing","password":"Password@123","paymentType":"1","customer":{"cardHolderName":"ASHUTOSH SAH","customerEmail":"TEST@PRABHUPAY.COM.NP","billingAddressStreet":"KATHMANDU","billingAddressCity":"Kathmandu","billingAddressState":"Bagmati","billingAddressPostalCode":"44600","billingAddressCountry":"India"},"currency":"SAR","order":{"orderId":"399528"},"referenceId":"","signature":"b248b1bcb4e794348008bb01fb33d021c1231ff00da4df926d07627bcf3bd6c2","tokenization":{"operation":"A","cardToken":""},"country":"India","amount":"1.00","customerIp":"10.10.11.172","merchantIp":"10.10.11.172","deviceInfo":"{\"pluginName\":\"DotNet_Hosted\",\"pluginVersion\":3.0,\"deviceType\":\"Desktop\",\"deviceModel\":\"Microsoft Windows NT 6.2.9200.0Win32NT\",\"deviceOSVersion\":\"Windows 10\",\"clientPlatform\":\"Chrome 142.0\"}","additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:58636/dotnet_plugin/Receipt.aspx\"}"}}
+
+2026-01-08 14:23:56
+btnsubmit_Click: The request was aborted: Could not create SSL/TLS secure channel.
+
+2026-01-08 14:24:07
+Request : {"terminalId":"Routing","password":"Password@123","paymentType":"1","customer":{"cardHolderName":"ASHUTOSH SAH","customerEmail":"TEST@PRABHUPAY.COM.NP","billingAddressStreet":"KATHMANDU","billingAddressCity":"Kathmandu","billingAddressState":"Bagmati","billingAddressPostalCode":"44600","billingAddressCountry":"India"},"currency":"SAR","order":{"orderId":"883410"},"referenceId":"","signature":"ef9c5087aeb442639c721d58b4cc05f360c1df239dbcbdef37ff57a6101badc6","tokenization":{"operation":"A","cardToken":""},"country":"India","amount":"2","customerIp":"10.10.11.172","merchantIp":"10.10.11.172","deviceInfo":"{\"pluginName\":\"DotNet_Hosted\",\"pluginVersion\":3.0,\"deviceType\":\"Desktop\",\"deviceModel\":\"Microsoft Windows NT 6.2.9200.0Win32NT\",\"deviceOSVersion\":\"Windows 10\",\"clientPlatform\":\"Chrome 142.0\"}","additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:58636/dotnet_plugin/Receipt.aspx\"}"}}
+
+2026-01-08 14:24:07
+Response Body :  {"result":"FAILURE","orderDetails":{},"additionalDetails":{},"responseCode":"659"}
+
+2026-01-08 14:24:07
+btnsubmit_Click: Thread was being aborted.
+
+2026-01-08 14:24:07
+Page_Load: Cannot perform runtime binding on a null reference
+
+2026-01-08 14:29:25
+Request : {"terminalId":"Routing","password":"Password@123","paymentType":"1","customer":{"cardHolderName":"ASHUTOSH SAH","customerEmail":"TEST@PRABHUPAY.COM.NP","billingAddressStreet":"KATHMANDU","billingAddressCity":"Kathmandu","billingAddressState":"Bagmati","billingAddressPostalCode":"44600","billingAddressCountry":"India"},"currency":"INR","order":{"orderId":"538810"},"referenceId":"","signature":"a2f1b13ee5199b52298d17284430f509c6735d53b1ef5f1bb172f1697cf5eb34","tokenization":{"operation":"A","cardToken":""},"country":"India","amount":"1.00","customerIp":"10.10.11.172","merchantIp":"10.10.11.172","deviceInfo":"{\"pluginName\":\"DotNet_Hosted\",\"pluginVersion\":3.0,\"deviceType\":\"Desktop\",\"deviceModel\":\"Microsoft Windows NT 6.2.9200.0Win32NT\",\"deviceOSVersion\":\"Windows 10\",\"clientPlatform\":\"Chrome 142.0\"}","additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:58636/dotnet_plugin/Receipt.aspx\"}"}}
+
+2026-01-08 14:29:26
+Response Body :  {"result":"FAILURE","orderDetails":{},"additionalDetails":{},"responseCode":"659"}
+
+2026-01-08 14:29:26
+btnsubmit_Click: Thread was being aborted.
+
+2026-01-08 14:29:26
+Page_Load: Cannot perform runtime binding on a null reference
+
+2026-01-08 14:29:35
+Page_Load: Cannot perform runtime binding on a null reference
+
+2026-01-08 14:29:36
+Page_Load: Cannot perform runtime binding on a null reference
+
+2026-01-08 14:29:37
+Page_Load: Cannot perform runtime binding on a null reference
+
+2026-01-08 14:29:37
+Page_Load: Cannot perform runtime binding on a null reference
+
+2026-01-08 14:29:37
+Page_Load: Cannot perform runtime binding on a null reference
+
+2026-01-08 14:29:38
+Page_Load: Cannot perform runtime binding on a null reference
+
+2026-01-08 14:29:38
+Page_Load: Cannot perform runtime binding on a null reference
+
+2026-01-08 14:29:38
+Page_Load: Cannot perform runtime binding on a null reference
+
+2026-01-08 14:30:38
+Request : {"terminalId":"Routing","password":"Password@123","paymentType":"1","customer":{"cardHolderName":"ASHUTOSH SAH","customerEmail":"TEST@PRABHUPAY.COM.NP","billingAddressStreet":"KATHMANDU","billingAddressCity":"Kathmandu","billingAddressState":"Bagmati","billingAddressPostalCode":"44600","billingAddressCountry":"India"},"currency":"INR","order":{"orderId":"442286"},"referenceId":"","signature":"0fa7bb75a42ac312fccc80de459b671b2db85869742e7aab0ea81555c1d21a13","tokenization":{"operation":"A","cardToken":""},"country":"India","amount":"1.00","customerIp":"10.10.11.172","merchantIp":"10.10.11.172","deviceInfo":"{\"pluginName\":\"DotNet_Hosted\",\"pluginVersion\":3.0,\"deviceType\":\"Desktop\",\"deviceModel\":\"Microsoft Windows NT 6.2.9200.0Win32NT\",\"deviceOSVersion\":\"Windows 10\",\"clientPlatform\":\"Chrome 142.0\"}","additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:58636/dotnet_plugin/Receipt.aspx\"}"}}
+
+2026-01-08 14:30:38
+Response Body :  {"result":"FAILURE","orderDetails":{},"additionalDetails":{},"responseCode":"659"}
+
+2026-01-08 14:30:38
+btnsubmit_Click: Thread was being aborted.
+
+2026-01-08 14:30:38
+Page_Load: Cannot perform runtime binding on a null reference
+
+2026-01-08 14:33:00
+Request : {"terminalId":"Routing","password":"Password@123","paymentType":"1","customer":{"cardHolderName":"ASHUTOSH SAH","customerEmail":"TEST@PRABHUPAY.COM.NP","billingAddressStreet":"KATHMANDU","billingAddressCity":"Kathmandu","billingAddressState":"Bagmati","billingAddressPostalCode":"44600","billingAddressCountry":"India"},"currency":"INR","order":{"orderId":"830137"},"referenceId":"","signature":"0fc965061054df75655296ffa322b87168c19c8740bc0d63d659dd60077ee21f","tokenization":{"operation":"A","cardToken":""},"country":"India","amount":"1.00","customerIp":"10.10.11.172","merchantIp":"10.10.11.172","deviceInfo":"{\"pluginName\":\"DotNet_Hosted\",\"pluginVersion\":3.0,\"deviceType\":\"Desktop\",\"deviceModel\":\"Microsoft Windows NT 6.2.9200.0Win32NT\",\"deviceOSVersion\":\"Windows 10\",\"clientPlatform\":\"Chrome 142.0\"}","additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:58636/dotnet_plugin/Receipt.aspx\"}"}}
+
+2026-01-08 14:33:40
+Response Body :  {"result":"FAILURE","orderDetails":{},"additionalDetails":{},"responseCode":"659"}
+
+2026-01-08 14:34:20
+btnsubmit_Click: Thread was being aborted.
+
+2026-01-08 14:34:21
+Page_Load: Cannot perform runtime binding on a null reference
+
+2026-01-08 14:34:41
+Request : {"terminalId":"Routing","password":"Password@123","paymentType":"1","customer":{"cardHolderName":"ASHUTOSH SAH","customerEmail":"TEST@PRABHUPAY.COM.NP","billingAddressStreet":"KATHMANDU","billingAddressCity":"Kathmandu","billingAddressState":"Bagmati","billingAddressPostalCode":"44600","billingAddressCountry":"India"},"currency":"SAR","order":{"orderId":"339067"},"referenceId":"","signature":"aecac507ffabcac92913909b14be1b3152eeda0864e0ec7e36cd315de4f8d96e","tokenization":{"operation":"A","cardToken":""},"country":"India","amount":"1.00","customerIp":"10.10.11.172","merchantIp":"10.10.11.172","deviceInfo":"{\"pluginName\":\"DotNet_Hosted\",\"pluginVersion\":3.0,\"deviceType\":\"Desktop\",\"deviceModel\":\"Microsoft Windows NT 6.2.9200.0Win32NT\",\"deviceOSVersion\":\"Windows 10\",\"clientPlatform\":\"Chrome 142.0\"}","additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:58636/dotnet_plugin/Receipt.aspx\"}"}}
+
+2026-01-08 14:36:39
+Response Body :  {"result":"FAILURE","orderDetails":{},"additionalDetails":{},"responseCode":"659"}
+
+2026-01-08 14:36:39
+btnsubmit_Click: Thread was being aborted.
+
+2026-01-08 14:36:39
+Page_Load: Cannot perform runtime binding on a null reference
+
+2026-01-08 14:37:22
+Request : {"terminalId":"VEGA19534","password":"TER25041000757906192568","paymentType":"1","customer":{"cardHolderName":"ASHUTOSH SAH","customerEmail":"TEST@PRABHUPAY.COM.NP","billingAddressStreet":"KATHMANDU","billingAddressCity":"Kathmandu","billingAddressState":"Bagmati","billingAddressPostalCode":"44600","billingAddressCountry":"India"},"currency":"INR","order":{"orderId":"164941"},"referenceId":"","signature":"793cf4f917775dbfc2a5cb7e39ff20d49701a8f56a271a8bd3846fff141b03f4","tokenization":{"operation":"A","cardToken":""},"country":"India","amount":"1.00","customerIp":"10.10.11.172","merchantIp":"10.10.11.172","deviceInfo":"{\"pluginName\":\"DotNet_Hosted\",\"pluginVersion\":3.0,\"deviceType\":\"Desktop\",\"deviceModel\":\"Microsoft Windows NT 6.2.9200.0Win32NT\",\"deviceOSVersion\":\"Windows 10\",\"clientPlatform\":\"Chrome 142.0\"}","additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:58636/dotnet_plugin/Receipt.aspx\"}"}}
+
+2026-01-08 14:37:23
+Response Body :  {"result":"FAILURE","orderDetails":{},"additionalDetails":{},"responseCode":"659"}
+
+2026-01-08 14:37:23
+btnsubmit_Click: Thread was being aborted.
+
+2026-01-08 14:37:23
+Page_Load: Cannot perform runtime binding on a null reference
+
+2026-01-08 14:38:24
+Request : {"terminalId":"VEGA19534","password":"TER25041000757906192568","paymentType":"1","customer":{"cardHolderName":"ASHUTOSH SAH","customerEmail":"TEST@PRABHUPAY.COM.NP","billingAddressStreet":"KATHMANDU","billingAddressCity":"Kathmandu","billingAddressState":"Bagmati","billingAddressPostalCode":"44600","billingAddressCountry":"India"},"currency":"INR","order":{"orderId":"633617"},"referenceId":"","signature":"bfd7acf3ac83e8e4a4858c24f2c6b57f02ae4419147ea01aa60893a36973540a","tokenization":{"operation":"A","cardToken":""},"country":"India","amount":"1.00","customerIp":"10.10.11.172","merchantIp":"10.10.11.172","deviceInfo":"{\"pluginName\":\"DotNet_Hosted\",\"pluginVersion\":3.0,\"deviceType\":\"Desktop\",\"deviceModel\":\"Microsoft Windows NT 6.2.9200.0Win32NT\",\"deviceOSVersion\":\"Windows 10\",\"clientPlatform\":\"Chrome 142.0\"}","additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:58636/dotnet_plugin/Receipt.aspx\"}"}}
+
+2026-01-08 14:38:26
+Response Body :  {"result":"FAILURE","orderDetails":{},"additionalDetails":{},"responseCode":"659"}
+
+2026-01-08 14:38:26
+btnsubmit_Click: Thread was being aborted.
+
+2026-01-08 14:38:26
+Page_Load: Cannot perform runtime binding on a null reference
+
+2026-01-08 14:45:51
+Request : {"terminalId":"lyra1","password":"Password@123","paymentType":"1","customer":{"cardHolderName":"ASHUTOSH SAH","customerEmail":"TEST@PRABHUPAY.COM.NP","billingAddressStreet":"KATHMANDU","billingAddressCity":"Kathmandu","billingAddressState":"Bagmati","billingAddressPostalCode":"44600","billingAddressCountry":"India"},"currency":"INR","order":{"orderId":"971943"},"referenceId":"","signature":"932679300b52b80945d407065f302db95b6353b069ce700e73f4faf1ec9c4888","tokenization":{"operation":"A","cardToken":""},"country":"India","amount":"1.00","customerIp":"10.10.11.172","merchantIp":"10.10.11.172","deviceInfo":"{\"pluginName\":\"DotNet_Hosted\",\"pluginVersion\":3.0,\"deviceType\":\"Desktop\",\"deviceModel\":\"Microsoft Windows NT 6.2.9200.0Win32NT\",\"deviceOSVersion\":\"Windows 10\",\"clientPlatform\":\"Chrome 142.0\"}","additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:58636/dotnet_plugin/Receipt.aspx\"}"}}
+
+2026-01-08 14:45:53
+Response Body :  {"orderDetails":{"orderId":"971943"},"responseDescription":"Transaction Approved","transactionDateTime":"January 8, 2026 2:44 PM","paymentLink":{"linkUrl":"https://test-vegaah.concertosoft.com/vegaahpayments/direct.htm?paymentId="},"terminalId":"lyra1","customerDetails":{"cardHolderName":"ASHUTOSH SAH"},"additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:58636/dotnet_plugin/Receipt.aspx\"}"},"transactionId":"2600814832999138513","amountDetails":{"amount":"1.00","originalAmount":"1.00"},"responseCode":"001"}
+
+2026-01-08 14:45:53
+btnsubmit_Click: Thread was being aborted.
+
+2026-01-08 14:47:16
+Request : {"terminalId":"Routing","password":"Password@123","paymentType":"1","customer":{"cardHolderName":"ASHUTOSH SAH","customerEmail":"TEST@PRABHUPAY.COM.NP","billingAddressStreet":"KATHMANDU","billingAddressCity":"Kathmandu","billingAddressState":"Bagmati","billingAddressPostalCode":"44600","billingAddressCountry":"India"},"currency":"INR","order":{"orderId":"532124"},"referenceId":"","signature":"1fbe84bbc14a8c42d32fa4d8fca55a75addc60287cfc9d7acd48c36120a54eb8","tokenization":{"operation":"A","cardToken":""},"country":"India","amount":"1.00","customerIp":"10.10.11.172","merchantIp":"10.10.11.172","deviceInfo":"{\"pluginName\":\"DotNet_Hosted\",\"pluginVersion\":3.0,\"deviceType\":\"Desktop\",\"deviceModel\":\"Microsoft Windows NT 6.2.9200.0Win32NT\",\"deviceOSVersion\":\"Windows 10\",\"clientPlatform\":\"Chrome 142.0\"}","additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:58636/dotnet_plugin/Receipt.aspx\"}"}}
+
+2026-01-08 14:52:48
+Response Body :  {"result":"FAILURE","orderDetails":{},"additionalDetails":{},"responseCode":"659"}
+
+2026-01-08 14:52:48
+btnsubmit_Click: Thread was being aborted.
+
+2026-01-08 14:52:48
+Page_Load: Cannot perform runtime binding on a null reference
+
+2026-01-08 14:53:40
+Request : {"terminalId":"Routing","password":"Password@123","paymentType":"1","customer":{"cardHolderName":"ASHUTOSH SAH","customerEmail":"TEST@PRABHUPAY.COM.NP","billingAddressStreet":"KATHMANDU","billingAddressCity":"Kathmandu","billingAddressState":"Bagmati","billingAddressPostalCode":"44600","billingAddressCountry":"India"},"currency":"SAR","order":{"orderId":"994674"},"referenceId":"","signature":"89682808febc707ca3293207a5ce6cad51c93062899ffc12fd24ef60ad707da4","tokenization":{"operation":"A","cardToken":""},"country":"India","amount":"1.00","customerIp":"10.10.11.172","merchantIp":"10.10.11.172","deviceInfo":"{\"pluginName\":\"DotNet_Hosted\",\"pluginVersion\":3.0,\"deviceType\":\"Desktop\",\"deviceModel\":\"Microsoft Windows NT 6.2.9200.0Win32NT\",\"deviceOSVersion\":\"Windows 10\",\"clientPlatform\":\"Chrome 142.0\"}","additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:58636/dotnet_plugin/Receipt.aspx\"}"}}
+
+2026-01-08 14:54:20
+Response Body :  {"result":"FAILURE","orderDetails":{},"additionalDetails":{},"responseCode":"659"}
+
+2026-01-08 14:58:25
+btnsubmit_Click: Thread was being aborted.
+
+2026-01-08 14:58:25
+Page_Load: Cannot perform runtime binding on a null reference
+
+2026-01-08 14:58:30
+btnsubmit_Click: Thread was being aborted.
+
+2026-01-08 14:58:30
+Page_Load: Cannot perform runtime binding on a null reference
+
+2026-01-08 14:58:51
+Request : {"terminalId":"Routing","password":"Password@123","paymentType":"1","customer":{"cardHolderName":"ASHUTOSH SAH","customerEmail":"TEST@PRABHUPAY.COM.NP","billingAddressStreet":"KATHMANDU","billingAddressCity":"Kathmandu","billingAddressState":"Bagmati","billingAddressPostalCode":"44600","billingAddressCountry":"India"},"currency":"SAR","order":{"orderId":"275154"},"referenceId":"","signature":"9ab9b029aad60f3339210bec98e0731e5ccca3a05a248957efdff13a417d4643","tokenization":{"operation":"A","cardToken":""},"country":"India","amount":"1.00","customerIp":"10.10.11.172","merchantIp":"10.10.11.172","deviceInfo":"{\"pluginName\":\"DotNet_Hosted\",\"pluginVersion\":3.0,\"deviceType\":\"Desktop\",\"deviceModel\":\"Microsoft Windows NT 6.2.9200.0Win32NT\",\"deviceOSVersion\":\"Windows 10\",\"clientPlatform\":\"Chrome 142.0\"}","additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:58636/dotnet_plugin/Receipt.aspx\"}"}}
+
+2026-01-08 14:59:00
+Response Body :  {"result":"FAILURE","orderDetails":{},"additionalDetails":{},"responseCode":"659"}
+
+2026-01-08 15:02:05
+btnsubmit_Click: Thread was being aborted.
+
+2026-01-08 15:02:05
+Page_Load: Cannot perform runtime binding on a null reference
+
+2026-01-08 15:02:17
+Request : {"terminalId":"Routing","password":"Password@123","paymentType":"1","customer":{"cardHolderName":"ASHUTOSH SAH","customerEmail":"TEST@PRABHUPAY.COM.NP","billingAddressStreet":"KATHMANDU","billingAddressCity":"Kathmandu","billingAddressState":"Bagmati","billingAddressPostalCode":"44600","billingAddressCountry":"India"},"currency":"SAR","order":{"orderId":"702981"},"referenceId":"","signature":"9b373ee916c48501a3a849dc2a88cb200d80da2053cb3cbab46bb98d0f82bb40","tokenization":{"operation":"A","cardToken":""},"country":"India","amount":"1.00","customerIp":"10.10.11.172","merchantIp":"10.10.11.172","deviceInfo":"{\"pluginName\":\"DotNet_Hosted\",\"pluginVersion\":3.0,\"deviceType\":\"Desktop\",\"deviceModel\":\"Microsoft Windows NT 6.2.9200.0Win32NT\",\"deviceOSVersion\":\"Windows 10\",\"clientPlatform\":\"Chrome 142.0\"}","additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:58636/dotnet_plugin/Receipt.aspx\"}"}}
+
+2026-01-08 15:02:20
+Response Body :  {"orderDetails":{"orderId":"702981"},"responseDescription":"Transaction Approved","transactionDateTime":"January 8, 2026 3:02 PM","paymentLink":{"linkUrl":"http://10.10.11.208:8788/CORE_2.2.2/direct.htm?paymentId="},"terminalId":"Routing","customerDetails":{"cardHolderName":"ASHUTOSH SAH"},"additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:58636/dotnet_plugin/Receipt.aspx\"}"},"transactionId":"2600815841021949587","amountDetails":{"amount":"1.00","originalAmount":"1.00"},"responseCode":"001"}
+
+2026-01-08 15:02:25
+btnsubmit_Click: Thread was being aborted.
+
+2026-01-08 15:03:33
+Decrypted Response body {"transactionDateTime":"January 8, 2026 3:02 PM","signature":"dfdb26943e74403c52c45bdd016f57f51796ec563bb2e54e88250e54e3919363","terminalId":"Routing","paymentInstrument":{"paymentMethod":"DCI"},"additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:58636/dotnet_plugin/Receipt.aspx\"}"},"transactionId":"2600815841021949587","amountDetails":{"amount":"1.00","originalAmount":"1.00"},"customerName":"AG","responseCode":"699","merchantName":"ClickPay","result":"TIMEOUT","orderDetails":{"orderId":"702981"},"responseDescription":"Transaction timed out from bank","merchantId":"MER000000000","cardDetails":{"maskedCard":"411111XXXXXX1111","cardBrand":"VISAINTL"},"customerEmail":"TEST@PRABHUPAY.COM.NP","currency":"SAR","customerDetails":{"cardHolderName":"AG"}}
+
+2026-01-08 15:03:33
+Page_Load: Object reference not set to an instance of an object.
+
+2026-01-08 15:03:38
+Request : {"terminalId":"Routing","password":"Password@123","paymentType":"1","customer":{"cardHolderName":"ASHUTOSH SAH","customerEmail":"TEST@PRABHUPAY.COM.NP","billingAddressStreet":"KATHMANDU","billingAddressCity":"Kathmandu","billingAddressState":"Bagmati","billingAddressPostalCode":"44600","billingAddressCountry":"India"},"currency":"SAR","order":{"orderId":"233050"},"referenceId":"","signature":"0841aeb3ef44354886ecb60e35a62a8e95f37bc902a0f0b92583771c24474dd7","tokenization":{"operation":"A","cardToken":""},"country":"India","amount":"1.00","customerIp":"10.10.11.172","merchantIp":"10.10.11.172","deviceInfo":"{\"pluginName\":\"DotNet_Hosted\",\"pluginVersion\":3.0,\"deviceType\":\"Desktop\",\"deviceModel\":\"Microsoft Windows NT 6.2.9200.0Win32NT\",\"deviceOSVersion\":\"Windows 10\",\"clientPlatform\":\"Chrome 142.0\"}","additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:58636/dotnet_plugin/Receipt.aspx\"}"}}
+
+2026-01-08 15:03:38
+Response Body :  {"orderDetails":{"orderId":"233050"},"responseDescription":"Transaction Approved","transactionDateTime":"January 8, 2026 3:03 PM","paymentLink":{"linkUrl":"http://10.10.11.208:8788/CORE_2.2.2/direct.htm?paymentId="},"terminalId":"Routing","customerDetails":{"cardHolderName":"ASHUTOSH SAH"},"additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:58636/dotnet_plugin/Receipt.aspx\"}"},"transactionId":"2600815854480864776","amountDetails":{"amount":"1.00","originalAmount":"1.00"},"responseCode":"001"}
+
+2026-01-08 15:03:39
+btnsubmit_Click: Thread was being aborted.
+
+2026-01-08 15:04:53
+Decrypted Response body {"transactionDateTime":"January 8, 2026 3:03 PM","signature":"e69c4b85b1b1082165f9dee9c7d1d43c550d1240e3a12c38924d9e85447f97f3","terminalId":"Routing","paymentInstrument":{"paymentMethod":"DCI"},"additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:58636/dotnet_plugin/Receipt.aspx\"}"},"transactionId":"2600815854480864776","amountDetails":{"amount":"1.00","originalAmount":"1.00"},"customerName":"pp","responseCode":"699","merchantName":"ClickPay","result":"TIMEOUT","orderDetails":{"orderId":"233050"},"responseDescription":"Transaction timed out from bank","merchantId":"MER000000000","cardDetails":{"maskedCard":"411111XXXXXX1111","cardBrand":"VISAINTL"},"customerEmail":"TEST@PRABHUPAY.COM.NP","currency":"SAR","customerDetails":{"cardHolderName":"pp"}}
+
+2026-01-08 15:04:53
+Page_Load: Object reference not set to an instance of an object.
+
+2026-01-08 15:06:48
+Request : {"terminalId":"VEGA19534","password":"TER25041000757906192568","paymentType":"1","customer":{"cardHolderName":"ASHUTOSH SAH","customerEmail":"TEST@PRABHUPAY.COM.NP","billingAddressStreet":"KATHMANDU","billingAddressCity":"Kathmandu","billingAddressState":"Bagmati","billingAddressPostalCode":"44600","billingAddressCountry":"SA"},"currency":"SAR","order":{"orderId":"227745"},"referenceId":"","signature":"b5a3a0c4d632bc8a3da0bbdc358070a0535c7388680e7149850098edbf75c9b9","tokenization":{"operation":"A","cardToken":""},"country":"SA","amount":"1.00","customerIp":"10.10.11.172","merchantIp":"10.10.11.172","deviceInfo":"{\"pluginName\":\"DotNet_Hosted\",\"pluginVersion\":3.0,\"deviceType\":\"Desktop\",\"deviceModel\":\"Microsoft Windows NT 6.2.9200.0Win32NT\",\"deviceOSVersion\":\"Windows 10\",\"clientPlatform\":\"Chrome 142.0\"}","additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:58636/dotnet_plugin/Receipt.aspx\"}"}}
+
+2026-01-08 15:06:49
+Response Body :  {"orderDetails":{"orderId":"227745"},"responseDescription":"Transaction Approved","transactionDateTime":"January 8, 2026 3:06 PM","paymentLink":{"linkUrl":"http://10.10.11.208:8788/CORE_2.2.2/direct.htm?paymentId="},"terminalId":"VEGA19534","customerDetails":{"cardHolderName":"ASHUTOSH SAH"},"additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:58636/dotnet_plugin/Receipt.aspx\"}"},"transactionId":"2600815928516154409","amountDetails":{"amount":"1.00","originalAmount":"1.00"},"responseCode":"001"}
+
+2026-01-08 15:06:49
+btnsubmit_Click: Thread was being aborted.
+
+2026-01-08 15:07:07
+Decrypted Response body {"authCode":"072614","transactionDateTime":"January 8, 2026 3:06 PM","signature":"89e4c9e4bf82605f7a7a32d5306b11aabe64a415e8d96280e150e944dbe87bf1","terminalId":"VEGA19534","paymentInstrument":{"paymentMethod":"DCI"},"additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:58636/dotnet_plugin/Receipt.aspx\"}"},"transactionId":"2600815928516154409","amountDetails":{"amount":"1.00","originalAmount":"1.00"},"customerName":"fdgfd","responseCode":"000","rrn":"600809072614","merchantName":"Cameo Saudi Pvt Ltd","result":"SUCCESS","orderDetails":{"orderId":"227745"},"responseDescription":"Transaction Successful","merchantId":"MER000000016","cardDetails":{"maskedCard":"411111XXXXXX1111","cardBrand":"VISAINTL"},"customerEmail":"TEST@PRABHUPAY.COM.NP","currency":"SAR","customerDetails":{"cardHolderName":"fdgfd"}}
+
+2026-01-08 15:07:07
+Page_Load: Object reference not set to an instance of an object.
+
+2026-01-08 16:09:17
+Expected DotNet Framework Version 4.5 | Found Dot Net Version 4.8.09032
+
+2026-01-08 16:24:26
+Request : {"terminalId":"VEGA19534","password":"TER25041000757906192568","paymentType":"1","customer":{"cardHolderName":"ASHUTOSH SAH","customerEmail":"TEST@PRABHUPAY.COM.NP","billingAddressStreet":"KATHMANDU","billingAddressCity":"Kathmandu","billingAddressState":"Bagmati","billingAddressPostalCode":"44600","billingAddressCountry":"India"},"currency":"SAR","order":{"orderId":"446860"},"referenceId":"","signature":"df526542ea700732b121392010e7a0de620aba5637f4fe568ff4d28f0be1496b","tokenization":{"operation":"A","cardToken":""},"country":"India","amount":"1.00","customerIp":"10.10.11.172","merchantIp":"10.10.11.172","deviceInfo":"{\"pluginName\":\"DotNet_Hosted\",\"pluginVersion\":3.0,\"deviceType\":\"Desktop\",\"deviceModel\":\"Microsoft Windows NT 6.2.9200.0Win32NT\",\"deviceOSVersion\":\"Windows 10\",\"clientPlatform\":\"Chrome 142.0\"}","additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:58636/dotnet_plugin/Receipt.aspx\"}"}}
+
+2026-01-08 16:24:28
+Response Body :  {"orderDetails":{"orderId":"446860"},"responseDescription":"Transaction Approved","transactionDateTime":"January 8, 2026 4:24 PM","paymentLink":{"linkUrl":"http://10.10.11.208:8788/CORE_2.2.2/direct.htm?paymentId="},"terminalId":"VEGA19534","customerDetails":{"cardHolderName":"ASHUTOSH SAH"},"additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:58636/dotnet_plugin/Receipt.aspx\"}"},"transactionId":"2600816863688493314","amountDetails":{"amount":"1.00","originalAmount":"1.00"},"responseCode":"001"}
+
+2026-01-08 16:24:28
+btnsubmit_Click: Thread was being aborted.
+
+2026-01-08 16:24:41
+Decrypted Response body {"authCode":"076805","transactionDateTime":"January 8, 2026 4:24 PM","signature":"db3995bb5046e2b46c507d8f4176ccd80e796baebe9acc99e5d12981fa433bac","terminalId":"VEGA19534","paymentInstrument":{"paymentMethod":"DCI"},"additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:58636/dotnet_plugin/Receipt.aspx\"}"},"transactionId":"2600816863688493314","amountDetails":{"amount":"1.00","originalAmount":"1.00"},"customerName":"dfdfdf","responseCode":"000","rrn":"600810076805","merchantName":"Cameo Saudi Pvt Ltd","result":"SUCCESS","orderDetails":{"orderId":"446860"},"responseDescription":"Transaction Successful","merchantId":"MER000000016","cardDetails":{"maskedCard":"411111XXXXXX1111","cardBrand":"VISAINTL"},"customerEmail":"TEST@PRABHUPAY.COM.NP","currency":"SAR","customerDetails":{"cardHolderName":"dfdfdf"}}
+
+2026-01-08 16:24:41
+Page_Load: Object reference not set to an instance of an object.

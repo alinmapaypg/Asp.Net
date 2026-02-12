@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Application>
+  <log>
+    <!--<Hosted>TER3148047</Hosted>
+    <password>TER23051290912175861702</password>
+    <secret>e5d3e50daab4abdaa5e510696f321d19bb470bd669a1de5d652812e1914b659b</secret>
+    <url>http://10.10.10.206:9092/CORE_2.2.2/transaction/jsonProcess/JSONrequest</url>-->    
+    
+    <!--<Hosted>TER3148047</Hosted>
+    <password>TER23051290912175861702</password>
+    <secret>e5d3e50daab4abdaa5e510696f321d19bb470bd669a1de5d652812e1914b659b</secret>
+    <url>http://10.10.10.206:9092/CORE_2.2.2/transaction/jsonProcess/JSONrequest</url>-->
+    
+    <!--Other Transaction Details-->
+    <!--<Hosted>DefaultTer</Hosted>
+    <password>TER23061594246970476261</password>
+    <secret>d49406528388682669387b3bad6883571fc5b14e15c94416e21c94a201543ad9</secret>
+    <url>http://10.10.10.206:9092/CORE_2.2.2/transaction/jsonProcess/JSONrequest</url>-->
+
+    <!--Sadad Terminal-->
+    <!--<Hosted>SADAD</Hosted>
+    <password>password</password>
+    <secret>fcae93a47edde9358f0af4094e7274f39289b4bfc9367f0ff9300f9211d65745</secret>
+    <url>http://10.10.11.66:8080/CORE_2.2.2/transaction/jsonProcess/JSONrequest</url>-->
+
+    <!--Direct 3D-->
+    <!--<Hosted>TestDirect</Hosted>
+    <password>password</password>
+    <secret>40d59e459a67000d1a23a362a2c9dbe38ce3e7eceecda97026152c77cb0c49df</secret>
+    <url>http://10.10.11.37:8085/CORE_2.2.2/transaction/jsonProcess/JSONrequest</url>-->
+    
+    
+    <!--Internal VegaaH-->
+    <!--<Hosted>VH3DT</Hosted>
+    <password>Password@123</password>
+    <secret>74daa0244042a97d7d2fa207a976eca03a9275f15f42ff080603ac6f2b93d337</secret>
+    <url>http://10.10.11.82:8080/vegaahpayments/v2/payments/pay-request</url>-->
+    <!--Sadad-->
+    <Hosted>VEGA19534</Hosted>
+    <password>TER25041000757906192568</password>
+    <secret>2cd69468ff292f7e04cf160d04165f413022c8c0da481b5eb3fc5b7e8cdaee98</secret>
+    <url>http://10.10.11.208:8788/CORE_2.2.2/v2/payments/pay-request</url>
+    <MerchantKey>2cd69468ff292f7e04cf160d04165f413022c8c0da481b5eb3fc5b7e8cdaee98</MerchantKey>
+    
+    <!--<Hosted>TER5438446</Hosted>
+    <password>TER24061561947415287198</password>
+    <secret>3b8babda62a62fecce0d3152868f2d3aced314033692da4346968d1b18eb7998</secret>
+    <url>https://test-vegaah.concertosoft.com/vegaahpayments/v2/payments/pay-request</url>
+    <MerchantKey>3b8babda62a62fecce0d3152868f2d3aced314033692da4346968d1b18eb7998</MerchantKey>-->
+    
+    
+    
+    <!--<Hosted>ATJOIN</Hosted>
+    <password>Password@123</password>
+    <secret>d2d78842669f2e1df7a4536419d507a4f5ae8bfdf455450597e570d59faa2f4e</secret>
+    <url>https://test-vegaah.concertosoft.com/vegaahpayments/v2/payments/pay-request</url>-->
+  
+    <currency>SAR</currency>
+    <timeout>300000</timeout>
+    <trackid>M11</trackid>
+    <metadata>{"entry1":"entry","receiptUrl":"http://localhost:58636/Receipt.aspx"}</metadata>
+   </log>
+</Application>

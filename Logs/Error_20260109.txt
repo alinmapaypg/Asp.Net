@@ -1,0 +1,18 @@
+
+PGLog 09-01-2026 15:29:34
+Request : {"terminalId":"VEGA19534","password":"TER25041000757906192568","paymentType":"1","customer":{"cardHolderName":"ASHUTOSH SAH","customerEmail":"TEST@PRABHUPAY.COM.NP","billingAddressStreet":"KATHMANDU","billingAddressCity":"Kathmandu","billingAddressState":"Bagmati","billingAddressPostalCode":"44600","billingAddressCountry":"India"},"currency":"SAR","order":{"orderId":"855042"},"referenceId":"","signature":"5497e779f4fa7a0e44ec4dd1d6b33c9bdc39cc4be4652b9139fa902a3c89323b","tokenization":{"operation":"A","cardToken":""},"country":"India","amount":"1.00","customerIp":"10.10.11.172","merchantIp":"10.10.11.172","deviceInfo":"{\"pluginName\":\"DotNet_Hosted\",\"pluginVersion\":3.0,\"deviceType\":\"Desktop\",\"deviceModel\":\"Microsoft Windows NT 6.2.9200.0Win32NT\",\"deviceOSVersion\":\"Windows 10\",\"clientPlatform\":\"Chrome 142.0\"}","additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:58636/Receipt.aspx\"}"}}
+
+2026-01-09 15:29:36
+Response Body :  {"orderDetails":{"orderId":"855042"},"responseDescription":"Transaction Approved","transactionDateTime":"January 9, 2026 3:29 PM","paymentLink":{"linkUrl":"http://10.10.11.208:8788/CORE_2.2.2/direct.htm?paymentId="},"terminalId":"VEGA19534","customerDetails":{"cardHolderName":"ASHUTOSH SAH"},"additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:58636/Receipt.aspx\"}"},"transactionId":"2600915473349404752","amountDetails":{"amount":"1.00","originalAmount":"1.00"},"responseCode":"001"}
+
+2026-01-09 15:29:36
+btnsubmit_Click: Thread was being aborted.
+
+2026-01-09 15:33:04
+Request : {"terminalId":"VEGA19534","password":"TER25041000757906192568","paymentType":"1","customer":{"cardHolderName":"ASHUTOSH SAH","customerEmail":"TEST@PRABHUPAY.COM.NP","billingAddressStreet":"KATHMANDU","billingAddressCity":"Kathmandu","billingAddressState":"Bagmati","billingAddressPostalCode":"44600","billingAddressCountry":"India"},"currency":"SAR","order":{"orderId":"492720"},"referenceId":"","signature":"51d9a61d81e8205e858eb2360517673856f0bdc0ed92fc83254d7fb843396654","tokenization":{"operation":"A","cardToken":""},"country":"India","amount":"1.00","customerIp":"10.10.11.172","merchantIp":"10.10.11.172","deviceInfo":"{\"pluginName\":\"DotNet_Hosted\",\"pluginVersion\":3.0,\"deviceType\":\"Desktop\",\"deviceModel\":\"Microsoft Windows NT 6.2.9200.0Win32NT\",\"deviceOSVersion\":\"Windows 10\",\"clientPlatform\":\"Chrome 142.0\"}","additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:58636/Receipt.aspx\"}"}}
+
+2026-01-09 15:33:57
+Response Body :  {"orderDetails":{"orderId":"492720"},"responseDescription":"Transaction Approved","transactionDateTime":"January 9, 2026 3:33 PM","paymentLink":{"linkUrl":"http://10.10.11.208:8788/CORE_2.2.2/direct.htm?paymentId="},"terminalId":"VEGA19534","customerDetails":{"cardHolderName":"ASHUTOSH SAH"},"additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:58636/Receipt.aspx\"}"},"transactionId":"2600915947856232509","amountDetails":{"amount":"1.00","originalAmount":"1.00"},"responseCode":"001"}
+
+2026-01-09 15:33:57
+btnsubmit_Click: Thread was being aborted.

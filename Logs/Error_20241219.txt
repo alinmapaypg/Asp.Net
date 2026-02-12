@@ -1,0 +1,162 @@
+
+2024-12-19 15:59:31
+Request : {"terminalId":"TER5438446","password":"TER24061561947415287198","signature":"080a6657c568a745fe0350183b2f13691ae0d2b5a1033c66b4ef94846763b93d","paymentType":"12","amount":"1.00","currency":"SAR","order":{"orderId":"856149","description":"Purchase of product XYZ"},"tokenization":{"operation":"A","cardToken":""},"customer":{"customerEmail":"","billingAddressCity":"Mahape","billingAddressPostalCode":"Maharashtra","billingAddressCountry":"India"},"deviceInfo":"{\"pluginName\":\"DotNet_Hosted\",\"pluginVersion\":3.0,\"deviceType\":\"Desktop\",\"deviceModel\":\"Microsoft Windows NT 6.2.9200.0Win32NT\",\"deviceOSVersion\":\"Windows 10\",\"clientPlatform\":\"Chrome 130.0\"}","additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:57189/dotnet_plugin/Receipt.aspx\"}"}}
+
+2024-12-19 15:59:32
+Response Body :  {"orderDetails":{"orderId":"856149"},"responseDescription":"Transaction Approved","transactionDateTime":"December 19, 2024 3:59 PM","paymentLink":{"linkUrl":"https://test-vegaah.concertosoft.com/vegaahpayments/direct.htm?paymentId="},"terminalId":"TER5438446","additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:57189/dotnet_plugin/Receipt.aspx\"}"},"transactionId":"2435415197914894908","amountDetails":{"amount":"1.00","originalAmount":"1.00"},"responseCode":"001"}
+
+2024-12-19 15:59:32
+btnsubmit_Click: Thread was being aborted.
+
+2024-12-19 15:59:42
+Decrypted Response body {"transactionDateTime":"December 19, 2024 3:59 PM","signature":"d7aefae0823b7c280bf7e7867d5bd634d83a07d47c7dd3b8bf3500590f30abea","terminalId":"TER5438446","additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:57189/dotnet_plugin/Receipt.aspx\"}"},"merchantReferenceId":"MER000000864","tokenization":{"cardToken":"9255499633105140"},"transactionId":"2435415197914894908","amountDetails":{"amount":"1.00","originalAmount":"1.00"},"customerName":"Demo Demo","responseCode":"000","merchantName":"kaushal","result":"SUCCESS","orderDetails":{"orderId":"856149"},"responseDescription":"Transaction Successful","cardDetails":{"maskedCard":"XXXXXXXXXXXX1111","cardBrand":"VISA"},"currency":"SAR","customerDetails":{"cardHolderName":"Demo Demo"}}
+
+2024-12-19 15:59:42
+Page_Load: Object reference not set to an instance of an object.
+
+2024-12-19 16:00:59
+Request : {"terminalId":"TER5438446","password":"TER24061561947415287198","signature":"104838b3d8637dc6fbfa9af7de302a667d65797ddcb8eff9fe3f3344498067f8","paymentType":"12","amount":"1.00","currency":"SAR","order":{"orderId":"632156","description":"Purchase of product XYZ"},"tokenization":{"operation":"U","cardToken":"9255499633105140"},"customer":{"customerEmail":"","billingAddressCity":"Mahape","billingAddressPostalCode":"Maharashtra","billingAddressCountry":"India"},"deviceInfo":"{\"pluginName\":\"DotNet_Hosted\",\"pluginVersion\":3.0,\"deviceType\":\"Desktop\",\"deviceModel\":\"Microsoft Windows NT 6.2.9200.0Win32NT\",\"deviceOSVersion\":\"Windows 10\",\"clientPlatform\":\"Chrome 130.0\"}","additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:57189/dotnet_plugin/Receipt.aspx\"}"}}
+
+2024-12-19 16:00:59
+Response Body :  {"orderDetails":{"orderId":"632156"},"responseDescription":"Transaction Approved","transactionDateTime":"December 19, 2024 4:01 PM","paymentLink":{"linkUrl":"https://test-vegaah.concertosoft.com/vegaahpayments/direct.htm?paymentId="},"terminalId":"TER5438446","customerDetails":{"cardHolderName":"Demo  Demo"},"additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:57189/dotnet_plugin/Receipt.aspx\"}"},"transactionId":"2435416198002588051","amountDetails":{"amount":"1.00","originalAmount":"1.00"},"responseCode":"001"}
+
+2024-12-19 16:00:59
+btnsubmit_Click: Thread was being aborted.
+
+2024-12-19 16:01:13
+Decrypted Response body {"transactionDateTime":"December 19, 2024 4:01 PM","signature":"dd27b2cea94f8db7a26f148c29b288a6c19c5624517e26eb1a461f026f6baac4","terminalId":"TER5438446","additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:57189/dotnet_plugin/Receipt.aspx\"}"},"merchantReferenceId":"MER000000864","tokenization":{"cardToken":"9255499633105140"},"transactionId":"2435416198002588051","amountDetails":{"amount":"1.00","originalAmount":"1.00"},"customerName":"Demo Demo","responseCode":"000","merchantName":"kaushal","result":"SUCCESS","orderDetails":{"orderId":"632156"},"responseDescription":"Transaction Successful","cardDetails":{"maskedCard":"XXXXXXXXXXXX1111","cardBrand":"VISA"},"currency":"SAR","customerDetails":{"cardHolderName":"Demo Demo"}}
+
+2024-12-19 16:01:13
+Page_Load: Object reference not set to an instance of an object.
+
+2024-12-19 16:02:02
+Request : {"terminalId":"TER5438446","password":"TER24061561947415287198","signature":"cb5c59ba48d22b0e6a00c486d472dd3a4dd898bf1506c7c182e2f28b0797a72a","paymentType":"12","amount":"1.00","currency":"SAR","order":{"orderId":"619822","description":"Purchase of product XYZ"},"tokenization":{"operation":"D","cardToken":"9255499633105140"},"customer":{"customerEmail":"","billingAddressCity":"Mahape","billingAddressPostalCode":"Maharashtra","billingAddressCountry":"India"},"deviceInfo":"{\"pluginName\":\"DotNet_Hosted\",\"pluginVersion\":3.0,\"deviceType\":\"Desktop\",\"deviceModel\":\"Microsoft Windows NT 6.2.9200.0Win32NT\",\"deviceOSVersion\":\"Windows 10\",\"clientPlatform\":\"Chrome 130.0\"}","additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:57189/dotnet_plugin/Receipt.aspx\"}"}}
+
+2024-12-19 16:02:04
+Response Body :  {"transactionDateTime":"December 19, 2024 4:02 PM","signature":"3ebe409e5d2dd79eceeb5ea87632bc32b4ec0330403c050f92dd206706c20935","terminalId":"TER5438446","additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:57189/dotnet_plugin/Receipt.aspx\"}"},"tokenization":{"cardToken":"9255499633105140"},"transactionId":"2435416198065777146","amountDetails":{"amount":"1.00","originalAmount":"1.00"},"responseCode":"000","result":"SUCCESS","orderDetails":{"orderId":"619822"},"responseDescription":"Saved card deleted successfully","cardDetails":{"cardBrand":"VISA"},"customerDetails":{"cardHolderName":"Demo  Demo"}}
+
+2024-12-19 16:02:04
+btnsubmit_Click: Thread was being aborted.
+
+2024-12-19 17:53:56
+Request : {"terminalId":"CSCart","password":"Password","paymentType":"1","customer":{"cardHolderName":"Lahulesh Chourasiya","customerEmail":"lahulesh.chourasiya@concertosoft.com","billingAddressStreet":"Mahape","billingAddressCity":"Mumbai","billingAddressState":"Maharashtra","billingAddressPostalCode":"400083","billingAddressCountry":"India"},"currency":"SAR","order":{"orderId":"422116"},"referenceId":"","signature":"ba64d61d5d1624416e75f2a9b931bf5cfa7711ff8bb9d55a10e1f3252cf5b2b9","tokenization":{"operation":"A","cardToken":""},"country":"India","amount":"1.00","customerIp":"10.10.11.68","merchantIp":"10.10.11.68","deviceInfo":"{\"pluginName\":\"DotNet_Hosted\",\"pluginVersion\":3.0,\"deviceType\":\"Desktop\",\"deviceModel\":\"Microsoft Windows NT 6.2.9200.0Win32NT\",\"deviceOSVersion\":\"Windows 10\",\"clientPlatform\":\"Chrome 130.0\"}","additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:57189/dotnet_plugin/Receipt.aspx\"}"}}
+
+2024-12-19 17:53:57
+Response Body :  {"orderDetails":{"orderId":"422116"},"responseDescription":"Transaction Approved","transactionDateTime":"December 19, 2024 5:53 PM","paymentLink":{"linkUrl":"https://test-vegaah.concertosoft.com/vegaahpayments/direct.htm?paymentId="},"terminalId":"CSCart","customerDetails":{"cardHolderName":"Lahulesh Chourasiya"},"additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:57189/dotnet_plugin/Receipt.aspx\"}"},"transactionId":"2435417204780374360","amountDetails":{"amount":"1.00","originalAmount":"1.00"},"responseCode":"001"}
+
+2024-12-19 17:53:57
+btnsubmit_Click: Thread was being aborted.
+
+2024-12-19 17:54:10
+Decrypted Response body {"transactionDateTime":"December 19, 2024 5:53 PM","signature":"7bbe5b3dc09dcfa587721aa459e857b8d39f3bbf72fc59433a754923c72c458c","terminalId":"CSCart","additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:57189/dotnet_plugin/Receipt.aspx\"}"},"merchantReferenceId":"MER000000864","transactionId":"2435417204780374360","amountDetails":{"amount":"1.00","originalAmount":"1.00"},"customerName":"Demo Demo","responseCode":"000","rrn":"435412018689","merchantName":"kaushal","result":"SUCCESS","orderDetails":{"orderId":"422116"},"responseDescription":"Transaction Successful","cardDetails":{"maskedCard":"XXXXXXXXXXXX1111","cardBrand":"VISA"},"customerEmail":"lahulesh.chourasiya@concertosoft.com","currency":"SAR","customerDetails":{"cardHolderName":"Demo Demo"}}
+
+2024-12-19 17:54:10
+Page_Load: Object reference not set to an instance of an object.
+
+2024-12-19 17:54:36
+Request : {"terminalId":"CSCart","password":"Password","paymentType":"2","customer":{"cardHolderName":"Lahulesh Chourasiya","customerEmail":"lahulesh.chourasiya@concertosoft.com","billingAddressStreet":"Mahape","billingAddressCity":"Mumbai","billingAddressState":"Maharashtra","billingAddressPostalCode":"400083","billingAddressCountry":"India"},"currency":"SAR","order":{"orderId":"106314"},"referenceId":"2435417204780374360","signature":"42d14b803f46498281c3b42a8de0f8e73f3bd61af60884ad660b811ffed49568","tokenization":{"operation":"A","cardToken":""},"country":"India","amount":"1.00","customerIp":"10.10.11.68","merchantIp":"10.10.11.68","deviceInfo":"{\"pluginName\":\"DotNet_Hosted\",\"pluginVersion\":3.0,\"deviceType\":\"Desktop\",\"deviceModel\":\"Microsoft Windows NT 6.2.9200.0Win32NT\",\"deviceOSVersion\":\"Windows 10\",\"clientPlatform\":\"Chrome 130.0\"}","additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:57189/dotnet_plugin/Receipt.aspx\"}"}}
+
+2024-12-19 17:54:38
+Response Body :  {"transactionDateTime":"December 19, 2024 5:54 PM","signature":"74f365e61c35c87dcad679f7ed4776e192695acbbf970109dce558b72efd51d3","terminalId":"CSCart","additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:57189/dotnet_plugin/Receipt.aspx\"}"},"transactionId":"2435417204819512718","amountDetails":{"amount":"1.00","originalAmount":"1.00"},"responseCode":"000","rrn":"435412019729","result":"SUCCESS","orderDetails":{"orderId":"106314"},"responseDescription":":Transaction Successful","cardDetails":{"maskedCard":"XXXXXXXXXXXX1111","cardBrand":"VISA"},"customerDetails":{"cardHolderName":"Lahulesh Chourasiya"}}
+
+2024-12-19 17:54:39
+btnsubmit_Click: Thread was being aborted.
+
+2024-12-19 17:54:55
+Request : {"referenceId":"2435417204819512718","terminalId":"CSCart","password":"Password","signature":"0b397452d77676ba57e548a02ec1ea6102c14437f22b3e00728bc0de6b36ee17","paymentType":"6","amount":"1.00","currency":"SAR","order":{"orderId":"608536"},"customer":{"billingAddressCountry":"India"},"paymentInstrument":{"paymentMethod":"CCI"},"deviceInfo":"{\"pluginName\":\"DotNet_Hosted\",\"pluginVersion\":3.0,\"deviceType\":\"Desktop\",\"deviceModel\":\"Microsoft Windows NT 6.2.9200.0Win32NT\",\"deviceOSVersion\":\"Windows 10\",\"clientPlatform\":\"Chrome 130.0\"}","additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:57189/dotnet_plugin/Receipt.aspx\"}"}}
+
+2024-12-19 17:54:57
+Response Body :  {"authCode":"020819","transactionDateTime":"December 19, 2024 5:54 PM","signature":"f7c986f9b891749d4794e0597650689b28d409d1d6bb57fa30d6031a63089e77","terminalId":"CSCart","additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:57189/dotnet_plugin/Receipt.aspx\"}"},"transactionId":"2435417204838456970","amountDetails":{"amount":"1.00","originalAmount":"1.00"},"responseCode":"000","rrn":"435412019729","result":"SUCCESS","orderDetails":{"orderId":"608536"},"responseDescription":":Transaction Successful","cardDetails":{"maskedCard":"XXXXXXXXXXXX1111","cardBrand":"VISA"},"customerDetails":{"cardHolderName":"Demo Demo"}}
+
+2024-12-19 17:54:57
+btnsubmit_Click: Thread was being aborted.
+
+2024-12-19 17:55:20
+Request : {"referenceId":"","terminalId":"CSCart","password":"Password","signature":"dd39505c8b4e4325bacbd2c953e3a875a5e4b518d396a8e5e080d391049a71e8","paymentType":"7","amount":"1.00","currency":"SAR","order":{"orderId":"600699"},"customer":{"billingAddressCountry":"India"},"paymentInstrument":{"paymentMethod":"CCI"},"deviceInfo":"{\"pluginName\":\"DotNet_Hosted\",\"pluginVersion\":3.0,\"deviceType\":\"Desktop\",\"deviceModel\":\"Microsoft Windows NT 6.2.9200.0Win32NT\",\"deviceOSVersion\":\"Windows 10\",\"clientPlatform\":\"Chrome 130.0\"}","additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:57189/dotnet_plugin/Receipt.aspx\"}"}}
+
+2024-12-19 17:55:20
+Response Body :  {"result":"FAILURE","orderDetails":{"orderId":"600699"},"responseDescription":"Invalid Transaction Reference.","transactionDateTime":"December 19, 2024 5:55 PM","signature":"22b4db9d706b70495a37c64087ad26fad0a79e089a230661b4ad2a4b24a73fca","terminalId":"CSCart","additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:57189/dotnet_plugin/Receipt.aspx\"}"},"transactionId":"2435417204863949447","amountDetails":{"amount":"1.00","originalAmount":"1.00"},"responseCode":"613"}
+
+2024-12-19 17:55:20
+btnsubmit_Click: Thread was being aborted.
+
+2024-12-19 17:56:13
+Request : {"terminalId":"CSCart","password":"Password","paymentType":"1","customer":{"cardHolderName":"Lahulesh Chourasiya","customerEmail":"lahulesh.chourasiya@concertosoft.com","billingAddressStreet":"Mahape","billingAddressCity":"Mumbai","billingAddressState":"Maharashtra","billingAddressPostalCode":"400083","billingAddressCountry":"India"},"currency":"SAR","order":{"orderId":"928278"},"referenceId":"","signature":"f31b8a1e0765b075ae6bbe07f09595c047b3371592f57bdc3fb8b1222adf579f","tokenization":{"operation":"A","cardToken":""},"country":"India","amount":"1.00","customerIp":"10.10.11.68","merchantIp":"10.10.11.68","deviceInfo":"{\"pluginName\":\"DotNet_Hosted\",\"pluginVersion\":3.0,\"deviceType\":\"Desktop\",\"deviceModel\":\"Microsoft Windows NT 6.2.9200.0Win32NT\",\"deviceOSVersion\":\"Windows 10\",\"clientPlatform\":\"Chrome 130.0\"}","additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:57189/dotnet_plugin/Receipt.aspx\"}"}}
+
+2024-12-19 17:56:13
+Response Body :  {"orderDetails":{"orderId":"928278"},"responseDescription":"Transaction Approved","transactionDateTime":"December 19, 2024 5:56 PM","paymentLink":{"linkUrl":"https://test-vegaah.concertosoft.com/vegaahpayments/direct.htm?paymentId="},"terminalId":"CSCart","customerDetails":{"cardHolderName":"Lahulesh Chourasiya"},"additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:57189/dotnet_plugin/Receipt.aspx\"}"},"transactionId":"2435417204916643473","amountDetails":{"amount":"1.00","originalAmount":"1.00"},"responseCode":"001"}
+
+2024-12-19 17:56:13
+btnsubmit_Click: Thread was being aborted.
+
+2024-12-19 17:56:24
+Decrypted Response body {"transactionDateTime":"December 19, 2024 5:56 PM","signature":"ef5b0ef3a85c0a994c01015335b1f9d6d25bdb7faf6a0659e4ec4fee7a936b52","terminalId":"CSCart","additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:57189/dotnet_plugin/Receipt.aspx\"}"},"merchantReferenceId":"MER000000864","transactionId":"2435417204916643473","amountDetails":{"amount":"1.00","originalAmount":"1.00"},"customerName":"Demo Demo","responseCode":"000","rrn":"435412021839","merchantName":"kaushal","result":"SUCCESS","orderDetails":{"orderId":"928278"},"responseDescription":"Transaction Successful","cardDetails":{"maskedCard":"XXXXXXXXXXXX1111","cardBrand":"VISA"},"customerEmail":"lahulesh.chourasiya@concertosoft.com","currency":"SAR","customerDetails":{"cardHolderName":"Demo Demo"}}
+
+2024-12-19 17:56:24
+Page_Load: Object reference not set to an instance of an object.
+
+2024-12-19 17:56:43
+Request : {"referenceId":"2435417204916643473","terminalId":"CSCart","password":"Password","signature":"e7400d96375a72b457c06149b6e8268992a08037e758b74a0d0313f929895c0d","paymentType":"3","amount":"1.00","currency":"SAR","order":{"orderId":"725853"},"customer":{"billingAddressCountry":"India"},"paymentInstrument":{"paymentMethod":"CCI"},"deviceInfo":"{\"pluginName\":\"DotNet_Hosted\",\"pluginVersion\":3.0,\"deviceType\":\"Desktop\",\"deviceModel\":\"Microsoft Windows NT 6.2.9200.0Win32NT\",\"deviceOSVersion\":\"Windows 10\",\"clientPlatform\":\"Chrome 130.0\"}","additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:57189/dotnet_plugin/Receipt.aspx\"}"}}
+
+2024-12-19 17:56:46
+Response Body :  {"authCode":"022899","transactionDateTime":"December 19, 2024 5:56 PM","signature":"b4df62b9909e3a621f49e6e3c6af03550b0e03f2baa65c709a51368779c5144f","terminalId":"CSCart","additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:57189/dotnet_plugin/Receipt.aspx\"}"},"transactionId":"2435417204946857205","amountDetails":{"amount":"1.00","originalAmount":"1.00"},"responseCode":"000","rrn":"435412021839","result":"SUCCESS","orderDetails":{"orderId":"725853"},"responseDescription":":Transaction Successful","cardDetails":{"maskedCard":"XXXXXXXXXXXX1111","cardBrand":"VISA"},"customerDetails":{"cardHolderName":"Demo Demo"}}
+
+2024-12-19 17:56:46
+btnsubmit_Click: Thread was being aborted.
+
+2024-12-19 18:05:59
+Request : {"referenceId":"","terminalId":"CSCart","password":"Password","signature":"0eddabd3e060361b03dc228a709bc207e3fee08755286869e9fbe1e2f0a2a08a","paymentType":"7","amount":"1.00","currency":"SAR","order":{"orderId":"175828"},"customer":{"billingAddressCountry":"India"},"paymentInstrument":{"paymentMethod":"CCI"},"deviceInfo":"{\"pluginName\":\"DotNet_Hosted\",\"pluginVersion\":3.0,\"deviceType\":\"Desktop\",\"deviceModel\":\"Microsoft Windows NT 6.2.9200.0Win32NT\",\"deviceOSVersion\":\"Windows 10\",\"clientPlatform\":\"Chrome 130.0\"}","additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:57189/dotnet_plugin/Receipt.aspx\"}"}}
+
+2024-12-19 18:05:59
+Response Body :  {"result":"FAILURE","orderDetails":{"orderId":"175828"},"responseDescription":"Invalid Transaction Reference.","transactionDateTime":"December 19, 2024 6:06 PM","signature":"343e2c22e108f3ecfa358610f1d232e8cdfcff728e2602d52c780ba6570f8cbc","terminalId":"CSCart","additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:57189/dotnet_plugin/Receipt.aspx\"}"},"transactionId":"2435418205502560295","amountDetails":{"amount":"1.00","originalAmount":"1.00"},"responseCode":"613"}
+
+2024-12-19 18:05:59
+btnsubmit_Click: Thread was being aborted.
+
+2024-12-19 18:06:30
+Request : {"terminalId":"CSCart","password":"Password","paymentType":"4","customer":{"cardHolderName":"Lahulesh Chourasiya","customerEmail":"lahulesh.chourasiya@concertosoft.com","billingAddressStreet":"Mahape","billingAddressCity":"Mumbai","billingAddressState":"Maharashtra","billingAddressPostalCode":"400083","billingAddressCountry":"India"},"currency":"SAR","order":{"orderId":"860402"},"referenceId":"","signature":"d2d4c18a8aa27d4a39616c8dcda3e60685b0d67f7bdebf21bab68440bfe18b37","tokenization":{"operation":"A","cardToken":""},"country":"India","amount":"1.00","customerIp":"10.10.11.68","merchantIp":"10.10.11.68","deviceInfo":"{\"pluginName\":\"DotNet_Hosted\",\"pluginVersion\":3.0,\"deviceType\":\"Desktop\",\"deviceModel\":\"Microsoft Windows NT 6.2.9200.0Win32NT\",\"deviceOSVersion\":\"Windows 10\",\"clientPlatform\":\"Chrome 130.0\"}","additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:57189/dotnet_plugin/Receipt.aspx\"}"}}
+
+2024-12-19 18:06:31
+Response Body :  {"orderDetails":{"orderId":"860402"},"responseDescription":"Transaction Approved","transactionDateTime":"December 19, 2024 6:06 PM","paymentLink":{"linkUrl":"https://test-vegaah.concertosoft.com/vegaahpayments/direct.htm?paymentId="},"terminalId":"CSCart","customerDetails":{"cardHolderName":"Lahulesh Chourasiya"},"additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:57189/dotnet_plugin/Receipt.aspx\"}"},"transactionId":"2435418205534026107","amountDetails":{"amount":"1.00","originalAmount":"1.00"},"responseCode":"001"}
+
+2024-12-19 18:06:31
+btnsubmit_Click: Thread was being aborted.
+
+2024-12-19 18:06:41
+Decrypted Response body {"transactionDateTime":"December 19, 2024 6:06 PM","signature":"ad0bc8fd0f5c09669aa236c03590bbac0b9caf20c743621c3c48ce35aa4ef7ad","terminalId":"CSCart","additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:57189/dotnet_plugin/Receipt.aspx\"}"},"merchantReferenceId":"MER000000864","transactionId":"2435418205534026107","amountDetails":{"amount":"1.00","originalAmount":"1.00"},"customerName":"Demo Demo","responseCode":"000","rrn":"435412024979","merchantName":"kaushal","result":"SUCCESS","orderDetails":{"orderId":"860402"},"responseDescription":"Transaction Successful","cardDetails":{"maskedCard":"XXXXXXXXXXXX1111","cardBrand":"VISA"},"customerEmail":"lahulesh.chourasiya@concertosoft.com","currency":"SAR","customerDetails":{"cardHolderName":"Demo Demo"}}
+
+2024-12-19 18:06:41
+Page_Load: Object reference not set to an instance of an object.
+
+2024-12-19 18:06:55
+Request : {"referenceId":"2435418205534026107","terminalId":"CSCart","password":"Password","signature":"afb3c3745f207642b497f96972af5d37b2b7ea5c9a236ff42b52404ff7324af5","paymentType":"7","amount":"1.00","currency":"SAR","order":{"orderId":"484371"},"customer":{"billingAddressCountry":"India"},"paymentInstrument":{"paymentMethod":"CCI"},"deviceInfo":"{\"pluginName\":\"DotNet_Hosted\",\"pluginVersion\":3.0,\"deviceType\":\"Desktop\",\"deviceModel\":\"Microsoft Windows NT 6.2.9200.0Win32NT\",\"deviceOSVersion\":\"Windows 10\",\"clientPlatform\":\"Chrome 130.0\"}","additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:57189/dotnet_plugin/Receipt.aspx\"}"}}
+
+2024-12-19 18:06:56
+Response Body :  {"result":"FAILURE","orderDetails":{"orderId":"484371"},"responseDescription":"System Error, Please contact System Admin","transactionDateTime":"December 19, 2024 6:06 PM","signature":"d17addddcc418d592d6d31af875de44a7167dade7c7ab9c607a0c705810c5cff","terminalId":"CSCart","additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:57189/dotnet_plugin/Receipt.aspx\"}"},"transactionId":"2435418205559001827","amountDetails":{"amount":"1.00","originalAmount":"1.00"},"responseCode":"601"}
+
+2024-12-19 18:06:56
+btnsubmit_Click: Thread was being aborted.
+
+2024-12-19 18:07:57
+Request : {"terminalId":"CSCart","password":"Password","paymentType":"4","customer":{"cardHolderName":"Lahulesh Chourasiya","customerEmail":"lahulesh.chourasiya@concertosoft.com","billingAddressStreet":"Mahape","billingAddressCity":"Mumbai","billingAddressState":"Maharashtra","billingAddressPostalCode":"400083","billingAddressCountry":"India"},"currency":"SAR","order":{"orderId":"370544"},"referenceId":"","signature":"e1ce7bdc7d347e1ad6627232209105eb801b84eb04dff561a0829cb4872c2f0b","tokenization":{"operation":"A","cardToken":""},"country":"India","amount":"1.00","customerIp":"10.10.11.68","merchantIp":"10.10.11.68","deviceInfo":"{\"pluginName\":\"DotNet_Hosted\",\"pluginVersion\":3.0,\"deviceType\":\"Desktop\",\"deviceModel\":\"Microsoft Windows NT 6.2.9200.0Win32NT\",\"deviceOSVersion\":\"Windows 10\",\"clientPlatform\":\"Chrome 130.0\"}","additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:57189/dotnet_plugin/Receipt.aspx\"}"}}
+
+2024-12-19 18:07:58
+Response Body :  {"orderDetails":{"orderId":"370544"},"responseDescription":"Transaction Approved","transactionDateTime":"December 19, 2024 6:07 PM","paymentLink":{"linkUrl":"https://test-vegaah.concertosoft.com/vegaahpayments/direct.htm?paymentId="},"terminalId":"CSCart","customerDetails":{"cardHolderName":"Lahulesh Chourasiya"},"additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:57189/dotnet_plugin/Receipt.aspx\"}"},"transactionId":"2435418205620930607","amountDetails":{"amount":"1.00","originalAmount":"1.00"},"responseCode":"001"}
+
+2024-12-19 18:07:58
+btnsubmit_Click: Thread was being aborted.
+
+2024-12-19 18:08:06
+Decrypted Response body {"transactionDateTime":"December 19, 2024 6:07 PM","signature":"9d5924ec10e73a859951062ab0674b3ee5ec0b9e46cc90f6a303b35efac4d298","terminalId":"CSCart","additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:57189/dotnet_plugin/Receipt.aspx\"}"},"merchantReferenceId":"MER000000864","transactionId":"2435418205620930607","amountDetails":{"amount":"1.00","originalAmount":"1.00"},"customerName":"Demo Demo","responseCode":"000","rrn":"435412026009","merchantName":"kaushal","result":"SUCCESS","orderDetails":{"orderId":"370544"},"responseDescription":"Transaction Successful","cardDetails":{"maskedCard":"XXXXXXXXXXXX1111","cardBrand":"VISA"},"customerEmail":"lahulesh.chourasiya@concertosoft.com","currency":"SAR","customerDetails":{"cardHolderName":"Demo Demo"}}
+
+2024-12-19 18:08:06
+Page_Load: Object reference not set to an instance of an object.
+
+2024-12-19 18:08:21
+Request : {"terminalId":"CSCart","password":"Password","paymentType":"5","customer":{"cardHolderName":"Lahulesh Chourasiya","customerEmail":"lahulesh.chourasiya@concertosoft.com","billingAddressStreet":"Mahape","billingAddressCity":"Mumbai","billingAddressState":"Maharashtra","billingAddressPostalCode":"400083","billingAddressCountry":"India"},"currency":"SAR","order":{"orderId":"243202"},"referenceId":"2435418205620930607","signature":"9a62b847d8fe28b4bfdef1b19cffa44d2ef15744591237e1e2ed41df79f56ee7","tokenization":{"operation":"A","cardToken":""},"country":"India","amount":"1.00","customerIp":"10.10.11.68","merchantIp":"10.10.11.68","deviceInfo":"{\"pluginName\":\"DotNet_Hosted\",\"pluginVersion\":3.0,\"deviceType\":\"Desktop\",\"deviceModel\":\"Microsoft Windows NT 6.2.9200.0Win32NT\",\"deviceOSVersion\":\"Windows 10\",\"clientPlatform\":\"Chrome 130.0\"}","additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:57189/dotnet_plugin/Receipt.aspx\"}"}}
+
+2024-12-19 18:08:23
+Response Body :  {"authCode":"026009","transactionDateTime":"December 19, 2024 6:08 PM","signature":"dda5efb1e3c31421b31f402d1ffc6988db841fedf9eb738adf926707f176cb87","terminalId":"CSCart","additionalDetails":{"userData":"{\"entry1\":\"entry\",\"receiptUrl\":\"http://localhost:57189/dotnet_plugin/Receipt.aspx\"}"},"transactionId":"2435418205644215952","amountDetails":{"amount":"1.00","originalAmount":"1.00"},"responseCode":"000","rrn":"435412026009","result":"SUCCESS","orderDetails":{"orderId":"243202"},"responseDescription":":Transaction Successful","cardDetails":{"maskedCard":"XXXXXXXXXXXX1111","cardBrand":"VISA"},"customerDetails":{"cardHolderName":"Demo Demo"}}
+
+2024-12-19 18:08:23
+btnsubmit_Click: Thread was being aborted.
